@@ -1,0 +1,4 @@
+Name,Protocol,Port
+HTTPS-8443,TCP,8443
+App-Custom-9090,TCP,9090
+Syslog-UDP,UDP,514

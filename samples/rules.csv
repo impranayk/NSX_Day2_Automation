@@ -1,0 +1,4 @@
+Name,Source,Destination,Service,Action
+Allow-Web-to-App,Web-Tier,App-Tier,HTTPS-8443,ALLOW
+Allow-App-to-DB,App-Tier,DB-Tier,App-Custom-9090,ALLOW
+Deny-Any-to-DB,ANY,DB-Tier,ANY,DROP
