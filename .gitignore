@@ -1,0 +1,13 @@
+# Logs (auto-generated at runtime)
+Logs/
+*.log
+
+# Local config with secrets — NEVER commit this
+config.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
